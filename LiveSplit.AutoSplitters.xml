@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AutoSplitters>
   <AutoSplitter>
+  	<Games>
+  		<Game>Doom (PC)</Game>
+  		<Game>Ultimate Doom</Game>
+  		<Game>Doom II</Game>
+  		<Game>Final Doom (PC)</Game>
+  	</Games>
+  	<URLs>
+  		<URL>https://github.com/Joca64/Livesplit.Doom/blob/master/LiveSplit.Doom.asl</URL>
+  	</URLs>
+  	<Type>Script</Type>
+  	<Description>Load Removal and Auto Splitting are available for PrBoom+ 2.5.1.3 & 2.5.1.4. (By Joca64)</Description>
+  	<Website>https://github.com/Joca64/Livesplit.Doom/blob/master/README.md</Website>
+  </AutoSplitter>
+  <AutoSplitter>
     <Games>
       <Game>Aperture Tag</Game>
       <Game>Aperture Tag: The Paint Gun Testing Initiative</Game>
